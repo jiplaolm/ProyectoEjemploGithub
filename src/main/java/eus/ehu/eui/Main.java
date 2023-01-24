@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Este es mi mensaje definitivo");
         System.out.println("Una versión alternativa");
     }
+
+    public static void kk() {
+
+    }
 }
